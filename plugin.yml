@@ -1,0 +1,82 @@
+name: PvPIslandKits
+main: me.rega_internal.pvpisland.Main
+version: 3.2.1
+authors: [Rega, InternalHD]
+description: Main plugin for PvPIsland
+website: http://www.pvpisland.com/
+commands:
+    admin:
+        default: true
+    clearchat:
+        default: true
+        aliases: [cc]
+    ck:
+        default: true
+        aliases: [clearkit]
+    build:
+        default: true
+    globalmute:
+        default: true
+        aliases: [muteall]
+    warn:
+        default: true
+    welcome:
+        default: true
+        aliases: [whalecum]
+    staffchat:
+        default: true
+        aliases: [sc, adminchat, ac]
+    rank:
+        default: true
+        aliases: [ranks]
+    help:
+        default: true
+        aliases: [?]
+    who:
+        default: true
+        aliases: [list]
+    msg:
+        default: true
+        aliases: [whisper, tell]
+    r:
+        default: true
+        aliases: [reply]
+    suicide:
+        default: true
+        aliases: [kill]
+    soup:
+        default: true
+        aliases: [refill]
+    repair:
+        default: true
+        aliases: [fix]
+    pvpisland:
+        default: true
+        aliases: [pvpisle, info]
+    report:
+        default: true
+    seekit:
+        default: true
+        aliases: [checkkit]
+    kit:
+        default: true
+        aliases: [kits]
+    invsee:
+        default: true
+        aliases: [inv]
+    chatcolor:
+        default: true
+    spawn:
+        default: true
+    options:
+        default: true
+    setspawn:
+        default: true
+    kick:
+        default: true
+    ban:
+        default: true
+    shop:
+        default: true
+    particles:
+        default: true
